@@ -1,5 +1,6 @@
-This library allows access to the [Clickatell's](http://www.clickatell.com) SMS API's.
+Master: [![Build Status](https://travis-ci.org/sirhoe/clickatell-sms.svg?branch=master)](https://travis-ci.org/sirhoe/clickatell-sms) [![Coverage Status](https://coveralls.io/repos/github/sirhoe/clickatell-sms/badge.svg?branch=master)](https://coveralls.io/github/sirhoe/clickatell-sms?branch=master)
 
+This library allows access to the [Clickatell's](http://www.clickatell.com) SMS API's.
 
 ## Installation
 
