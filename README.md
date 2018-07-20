@@ -13,7 +13,7 @@ All calls are asynchronous and returns a Promise
 
 ```javascript
 
-var clickatell = require('clickatell-sms')(apiKey);
+const clickatell = require('clickatell-sms')(apiKey);
 
 const result = await clickatell.sendMessage(["00000000000"], "My Message");
 
